@@ -19,7 +19,7 @@ Colors:
 
 @font-face {
     font-family: Reef;
-    src: url(../Reef.otf)
+    src: url("../Modern-Art/Reef.otf");
 }
 
 body {
